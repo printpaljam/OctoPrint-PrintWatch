@@ -13,7 +13,7 @@ from typing import Union
 from .utils import *
 
 
-DEFAULT_ROUTE = 'https://octoprint.printpal.io'
+DEFAULT_ROUTE = 'https://bendev.printpal.io'
 ANOMALY_DETECTION_ROUTE = 'http://ad.printpal.io'
 
 PRINTING_STATES = [
